@@ -1,2 +1,2 @@
-# operativni_sistemi
+# guessing_game
 Milan Marinkovic
